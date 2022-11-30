@@ -8,6 +8,10 @@ Google Meet Clone is a website where you can organize your meetings / video call
 4. Collaborative whiteboard
 5. Google Authentication 
 
+## Deployed Link
+https://gmeet-clone-123.herokuapp.com/
+
+
 ## Tools / Technologies Used
 
 ### Front End:
